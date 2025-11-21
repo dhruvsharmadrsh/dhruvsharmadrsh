@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Dhruv%20Sharma&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architecting%20the%20Future%20with%20AI%20%26%20Code&descAlignY=55&descSize=20&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Dhruv%20Sharma&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architecting%20the%20Future%20with%20AI%20and%20Code&descAlignY=55&descSize=20&descAlign=50"/>
 
-<!-- Typing SVG with Multiple Lines -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=940&height=70&lines=%E2%9A%A1+Full-Stack+Engineer+%7C+AI+Architect+%7C+Tech+Innovator;%F0%9F%A7%A0+Building+Intelligent+Systems+That+Matter;%F0%9F%9A%80+Transforming+Ideas+Into+Production-Ready+Solutions;%E2%9C%A8+Open+Source+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Animated Badges with Effects -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=dhruvsharmadrsh&label=Profile%20Views&color=blueviolet&style=for-the-badge&label_color=1a1b27" alt="Profile Views" />
   <a href="https://github.com/dhruvsharmadrsh?tab=followers">
