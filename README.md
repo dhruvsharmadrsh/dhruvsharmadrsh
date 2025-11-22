@@ -513,23 +513,9 @@ coding_style:
 
 <br/>
 
----
 
-### 🔗 Useful Links
 
-<div align="center">
 
-| Link | Description |
-|:-----|:------------|
-| [📝 Blog](https://dhruvsharma.dev/blog) | Technical articles and tutorials |
-| [💼 Portfolio](https://dhruvsharma.dev) | My work and projects |
-| [🎓 Certifications](https://dhruvsharma.dev/certs) | Professional certifications |
-| [📖 Reading List](https://dhruvsharma.dev/reading) | Books & resources I recommend |
-| [🎯 Resume](https://dhruvsharma.dev/resume) | Download my resume |
-
-</div>
-
-<br/>
 
 ---
 
